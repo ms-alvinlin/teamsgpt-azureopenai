@@ -1,4 +1,4 @@
-![網頁說明]([(https://ms-alvinlin.github.io/alvinlin.azureopenai.io/)])
+![網頁說明](https://ms-alvinlin.github.io/alvinlin.azureopenai.io/)
 
 # 參考相關檔案以便瞭解相依性及前置作業
 # 啟始 Microsoft 365 Tenant (如果沒有的話)，並進行權限組態
