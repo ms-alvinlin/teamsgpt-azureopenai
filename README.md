@@ -1,3 +1,16 @@
+![網頁說明]([(https://ms-alvinlin.github.io/alvinlin.azureopenai.io/)])
+
+# 參考相關檔案以便瞭解相依性及前置作業
+# 啟始 Microsoft 365 Tenant (如果沒有的話)，並進行權限組態
+# 登入 Azure，提交 Azure OpenAI 的服務申請，取得回覆，並建立服務及部署
+# 下載並安裝  Visual Studio Code  程式
+# 開啟 Visual Studio Code，安裝 Teams Toolkit Extension 延伸模組，並登入 M365 及 Azure
+# 安裝 Node.js (v18.17.1) 
+# 開啟 Node.js 的命令提示字元,  然後安裝 TeamsFx SDK for TypeScript/JavaScript
+# 下載並安裝 Teams 應用程式
+# 複製 Integrating ChatGPT with Microsoft Teams  在 Github  的 repository 並啟始  Debug
+# 程式會自動建立 Azure 的應用程式註冊,  並在發佈後可以新增自 Team 對話
+
 # Integrating ChatGPT with Microsoft Teams
 Wouldn't it be great if you and your teammates could easily send questions to ChatGPT in Microsoft Teams group chats or meetings? This guide will show you how to integrate Microsoft Teams with the Azure OpenAI platform in just a few steps. By taking advantage of a Microsoft 365 developer platform membership and an Azure free subscription, you can create a sandbox environment specifically for this proof of concept.
 
